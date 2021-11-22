@@ -1,0 +1,57 @@
+.calculator{
+    border-radius: 8px;
+    border: solid 2px;
+    padding:15px;
+    background-image: url("https://www.enjpg.com/img/2020/winter-19.jpg");
+    box-shadow: inset 5px 5px 12px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+   background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+    border: solid 2px;
+    margin: 20px;
+    padding: 25px;
+    background-image: url("https://www.worldatlas.com/r/w960-q80/upload/34/3f/ce/shutterstock-122755672.jpg");
+
+}
+#space{
+
+    border-radius: 6px;
+    background-color: floralwhite;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    font-size: 20px;
+    box-shadow: inset 2px 2px 5px;
+    font-style: italic;
+    text-align: right;
+
+
+}
+.btn{
+    font-family: Arial;
+
+    font-size: small;
+    padding:25px;
+    border-color: gold;
+    border-radius: 100px;
+    border:solid;
+
+    color: floralwhite;
+    font-style: normal;
+    background-color: black;
+
+}
+
+#h2{
+    font-size: 25px;
+    font-style: normal;
+    color: white;
+
+}
